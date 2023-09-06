@@ -26,6 +26,10 @@ li a {
     color: #fff;
     text-decoration: none;
 }
+li a:hover{
+    text-decoration: underline;
+    color: #8f8f8f;
+} 
 .footer-copy{
     grid-column: 1 / -1;
     font-size: 1.125rem;
